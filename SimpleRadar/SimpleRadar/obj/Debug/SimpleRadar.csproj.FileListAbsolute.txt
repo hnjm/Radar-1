@@ -1,0 +1,9 @@
+G:\ASPNET\SimpleRadar\SimpleRadar\bin\Debug\SimpleRadar.exe.config
+G:\ASPNET\SimpleRadar\SimpleRadar\bin\Debug\SimpleRadar.exe
+G:\ASPNET\SimpleRadar\SimpleRadar\bin\Debug\SimpleRadar.pdb
+G:\ASPNET\SimpleRadar\SimpleRadar\obj\Debug\SimpleRadar.csprojResolveAssemblyReference.cache
+G:\ASPNET\SimpleRadar\SimpleRadar\obj\Debug\SimpleRadar.Form1.resources
+G:\ASPNET\SimpleRadar\SimpleRadar\obj\Debug\SimpleRadar.Properties.Resources.resources
+G:\ASPNET\SimpleRadar\SimpleRadar\obj\Debug\SimpleRadar.csproj.GenerateResource.Cache
+G:\ASPNET\SimpleRadar\SimpleRadar\obj\Debug\SimpleRadar.exe
+G:\ASPNET\SimpleRadar\SimpleRadar\obj\Debug\SimpleRadar.pdb
